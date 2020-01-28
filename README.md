@@ -6,7 +6,7 @@
     <img alt="GoStack" src="https://i.imgur.com/WfafA3y.png" width="200px" />
 </h1>
 
-<p align="center"> Desenvolvimentos referentes ao Bootcamp GoStack da Rocketseat 🚀.
+<p align="center"> Desenvolvimentos referentes ao Bootcamp GoStack da @Rocketseat, aos ensinamento do Mestre @diego3g 🚀.
 
 
 ## Features
